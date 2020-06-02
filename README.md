@@ -1,2 +1,11 @@
-# STAT 6021 Linear Model Project
-Predicting price of Diamonds using 4 C's (Carat, Cut, Clarity, and Color) by using a linear regression model
+# Linear Model Project
+
+STAT 6021 Project 
+
+# Data
+
+The dataset consists of 210,638 diamonds prices with 4 variables: Carat, Cut, Clarity, and Color.
+
+# Summary
+
+Constructing a prediction model to predict the diamond price using Linear models
