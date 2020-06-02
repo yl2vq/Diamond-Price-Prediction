@@ -8,4 +8,4 @@ The dataset consists of 210,638 diamonds prices with 4 variables: Carat, Cut, Cl
 
 # Summary
 
-Constructing a prediction model to predict the diamond price using Linear models
+Constructing a prediction model to predict the diamond price using Linear models.
